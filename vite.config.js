@@ -196,6 +196,7 @@ export default defineConfig({
 		react(),
 		addTransformIndexHtml
 	],
+	base: 'https://aleexag.github.io/webN',
 	server: {
 		cors: true,
 		headers: {
